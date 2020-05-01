@@ -38,11 +38,11 @@ My progress is outlined below; updated as I go through the course
 - [ ] ~Filter (More)~ (AC)
 - [x] Recover
 
-#### Problem Set 5 *\*current position\**
+#### Problem Set 5
 
-- [ ] Speller
+- [x] Speller
 
-#### Problem Set 6
+#### Problem Set 6 *\*current position\**
 
 - [ ] Sentimental / Hello
 - [ ] ~Sentimental / Mario~ (Less) (TS)
