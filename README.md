@@ -44,9 +44,9 @@ My progress is outlined below; updated as I go through the course
 
 #### Problem Set 6 *\*current position\**
 
-- [ ] Sentimental / Hello
-- [ ] ~Sentimental / Mario~ (Less) (TS)
-- [ ] Sentimental / Mario (More)
+- [x] Sentimental / Hello
+- [ ] ~Sentimental / Mario (Less)~ (TS, AC)
+- [x] Sentimental / Mario (More)
 - [ ] Sentimental / Cash
 - [ ] Sentimental / Credit
 - [ ] Sentimental / Readability
