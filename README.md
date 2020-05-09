@@ -47,9 +47,9 @@ My progress is outlined below; updated as I go through the course
 - [x] Sentimental / Hello
 - [ ] ~Sentimental / Mario (Less)~ (TS, AC)
 - [x] Sentimental / Mario (More)
-- [ ] Sentimental / Cash
-- [ ] Sentimental / Credit
-- [ ] Sentimental / Readability
+- [x] Sentimental / Cash
+- [x] Sentimental / Credit
+- [x] Sentimental / Readability
 - [ ] DNA
 
 #### Problem Set 7
