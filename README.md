@@ -42,7 +42,7 @@ My progress is outlined below; updated as I go through the course
 
 - [x] Speller
 
-#### Problem Set 6 *\*current position\**
+#### Problem Set 6
 
 - [x] Sentimental / Hello
 - [ ] ~Sentimental / Mario (Less)~ (TS, AC)
@@ -50,9 +50,9 @@ My progress is outlined below; updated as I go through the course
 - [x] Sentimental / Cash
 - [x] Sentimental / Credit
 - [x] Sentimental / Readability
-- [ ] DNA
+- [x] DNA
 
-#### Problem Set 7
+#### Problem Set 7 *\*current position\**
 
 - [ ] Movies
 - [ ] Houses
