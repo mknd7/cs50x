@@ -52,12 +52,12 @@ My progress is outlined below; updated as I go through the course
 - [x] Sentimental / Readability
 - [x] DNA
 
-#### Problem Set 7 *\*current position\**
+#### Problem Set 7
 
-- [ ] Movies
-- [ ] Houses
+- [x] Movies
+- [x] Houses
 
-#### Problem Set 8
+#### Problem Set 8 *\*current position\**
 
 - [ ] Web / Homepage
 - [ ] Web / Finance
